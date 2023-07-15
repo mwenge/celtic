@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Aegean';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Aegean Regular'), local('Aegean-Regular') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Ogham';
+  font-style: normal;
+  font-weight: 400;
+  src: url(assets/NotoSansOgham-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url(assets/NotoMono-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Symbols';
+  font-style: normal;
+  font-weight: 400;
+  src: url(assets/NotoSansSymbols2-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Routed';
+  font-style: normal;
+  font-weight: 400;
+  src: url(assets/routed-gothic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Routed Wide';
+  font-style: normal;
+  font-weight: 400;
+  src: url(assets/NationalPark-Thin.otf) format('truetype');
+}
